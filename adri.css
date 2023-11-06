@@ -14,3 +14,9 @@ h1 {
 .hamburguer {
     color: rgb(94, 26, 26)
 }
+.imagem1 {
+    width: 30%;
+}
+.imagemcentralizada {
+    text-align: center;
+}
